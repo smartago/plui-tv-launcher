@@ -1,0 +1,15 @@
+name: Feature request
+description: Something you would like PLUI to do
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What should it do, and what would you use it for?
+    validations: { required: true }
+  - type: textarea
+    id: today
+    attributes:
+      label: How you work around it today
+      description: Optional — knowing the workaround often shapes the feature

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email support
+    url: mailto:support@smartago.net
+    about: A human answers within 24-48 hours
+  - name: PLUI website
+    url: https://pluitv.com
+    about: Screenshots, features and the story behind the launcher

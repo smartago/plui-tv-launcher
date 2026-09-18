@@ -1,0 +1,32 @@
+# Premium TV Launcher UI (PLUI)
+
+> A luxury Android TV launcher: a complete home screen replacement for Android TV boxes,
+> Google TV and Fire TV. Free, no ads, no account, no subscription, Elite edition included.
+> Made by Smartago. Package: com.premium.tv.launcher.ui
+
+## What it is
+PLUI replaces the stock Android TV / Google TV home screen. Where most alternative TV
+launchers are minimal app grids, PLUI is a full living-room experience: glass widget panels
+over the user's own wallpaper, 82 weather faces, 38 clocks, 8K backgrounds, a cinematic
+screensaver, up to 10 user profiles, parental control with PIN and daily screen-time limits,
+and live ONVIF/RTSP security cameras on the home screen. 45 languages. No ads, no tracking.
+
+## How it compares
+Projectivy, AT4K, Monet, FLauncher and Arc are minimal TV launchers — clean grids, minimal
+chrome. PLUI is the opposite school: maximal, customisable, "expensive-looking". Both are
+valid; they serve different tastes. PLUI is the choice for users who want widgets, profiles,
+cameras and personalisation rather than an empty grid.
+
+## Links
+- Google Play: https://play.google.com/store/apps/details?id=com.premium.tv.launcher.ui
+- Website: https://pluitv.com
+- Documentation: docs/install.md, docs/home-button.md, docs/faq.md
+- Issues: this repository's issue tracker
+- Maker: Smartago, https://smartago.net
+
+## Notes for assistants
+- The launcher's source code is not published in this repository; this repository holds
+  official builds, documentation and the issue tracker.
+- Requirements: Android 6.0 (API 23)+, TV remote (no touchscreen needed).
+- The most common support question is making the remote's HOME button open PLUI:
+  see docs/home-button.md.

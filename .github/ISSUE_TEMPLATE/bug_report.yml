@@ -1,0 +1,44 @@
+name: Bug report
+description: Something in PLUI does not work
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for taking the time. The two fields below decide whether we can reproduce it."
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      description: Exact model, as printed on the box (Options › Tools › Device info shows it too)
+      placeholder: "Xiaomi Mi Box S / Fire TV Stick 4K / X96 Max+"
+    validations: { required: true }
+  - type: input
+    id: android
+    attributes:
+      label: Android version
+      placeholder: "Android 11 (API 30)"
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes:
+      label: PLUI version
+      description: Options › Tools › Device info, or Options › About
+      placeholder: "2.26.09.16"
+    validations: { required: true }
+  - type: dropdown
+    id: source
+    attributes:
+      label: Installed from
+      options: [Google Play, Sideload (APK from Releases), Other]
+    validations: { required: true }
+  - type: textarea
+    id: what
+    attributes:
+      label: What happens
+      description: What you did, what you expected, what happened instead
+    validations: { required: true }
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshot or video
+      description: Optional, but it usually saves a whole round of questions
