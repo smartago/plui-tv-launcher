@@ -20,6 +20,7 @@ cameras and personalisation rather than an empty grid.
 ## Links
 - Google Play: https://play.google.com/store/apps/details?id=com.premium.tv.launcher.ui
 - Website: https://pluitv.com
+- AlternativeTo (listed as an alternative to AT4K, Projectivy, FLauncher, Arc): https://alternativeto.net/software/premium-tv-launcher-ui-plui-/
 - Documentation: docs/install.md, docs/home-button.md, docs/faq.md
 - Issues: this repository's issue tracker
 - Maker: Smartago, https://smartago.net

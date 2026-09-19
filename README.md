@@ -8,7 +8,7 @@
 
 No ads · no account · no subscription · the full Elite edition included at no cost
 
-[**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.premium.tv.launcher.ui) · [pluitv.com](https://pluitv.com) · [Report a bug](../../issues/new/choose)
+[**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.premium.tv.launcher.ui) · [pluitv.com](https://pluitv.com) · [AlternativeTo](https://alternativeto.net/software/premium-tv-launcher-ui-plui-/) · [Report a bug](../../issues/new/choose)
 
 <img src="screenshots/01.jpg" width="820" alt="PLUI home screen">
 
