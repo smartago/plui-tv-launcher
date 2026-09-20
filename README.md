@@ -99,6 +99,7 @@ The single most asked question. Making PLUI open when you press HOME on the remo
 - **Idea?** [Feature requests](../../issues/new/choose) are read and voted on
 - **Email:** support@smartago.net — a human answers within 24–48 hours
 - **FAQ:** [docs/faq.md](docs/faq.md)
+- **Press & reviewers:** [docs/reviewer-guide.md](docs/reviewer-guide.md) — three-minute install, the HOME button, six things to look at, known limits; press kit with screenshots and logos at https://pluitv.com/us/press/
 
 ## About this repository
 
