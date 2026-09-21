@@ -13,8 +13,9 @@ One name, two spellings: the app is **Premium TV Launcher UI (PLUI)**; Google Pl
 install, open. The start wizard asks for the launcher role — where the device allows it, HOME now
 opens PLUI. Direct link: https://play.google.com/store/apps/details?id=com.premium.tv.launcher.ui
 
-**Fire TV, or any box without Play (sideload):** in *Downloader TV* enter code **0245** (or fetch
-https://smartago.net/us/downloads/com.premium.tv.launcher.ui.apk with any downloader), install,
+**Fire TV, or any box without Play (sideload):** in the *Downloader* app enter code **1166520**
+(aftv.news/1166520), or open **pluitv.com/apk** in any browser or downloader. In our own *Downloader TV*
+app the code is **0245**. Then install,
 open. The wizard walks through HOME capture (an accessibility service, only for the HOME key) and
 auto-boot. The sideload build updates itself. Full steps: [install.md](install.md).
 
@@ -87,6 +88,7 @@ screensaver.
 | Source | Launcher closed source; focus layer open source as TV Focus Kit (MIT): https://github.com/smartago/tv-focus-kit |
 | Comparison | https://pluitv.com/us/compare/ — Projectivy, AT4K, Monet, Arc, PLUI on 18 facts from each app's own listing |
 | Privacy policy | https://smartago.net/us/premium-tv-launcher-privacy-policy/ |
+| Sideload | Downloader code 1166520 (aftv.news/1166520) · pluitv.com/apk · our Downloader TV code 0245 |
 | Support | support@smartago.net, a person, 24–48 h · https://github.com/smartago/plui-tv-launcher/issues |
 
 ## 6. What we can give you
