@@ -2,7 +2,7 @@
 
 For journalists, YouTubers and anyone writing a fair review. Three minutes to install, six things
 to look at, and the limits we would rather you heard from us. Press kit with screenshots, logos and
-a fact sheet: https://pluitv.com/us/press/ · Questions: support@smartago.net, subject "Press".
+a fact sheet: https://pluitv.com/us/press/ · Questions: press@smartago.net (answered the same working day).
 
 One name, two spellings: the app is **Premium TV Launcher UI (PLUI)**; Google Play lists it as
 **"TV Launcher Premium Smart UI"**. Same app, one package: `com.premium.tv.launcher.ui`.
@@ -89,7 +89,7 @@ screensaver.
 | Comparison | https://pluitv.com/us/compare/ — Projectivy, AT4K, Monet, Arc, PLUI on 18 facts from each app's own listing |
 | Privacy policy | https://smartago.net/us/premium-tv-launcher-privacy-policy/ |
 | Sideload | Downloader code 1166520 (aftv.news/1166520) · pluitv.com/apk · our Downloader TV code 0245 |
-| Support | support@smartago.net, a person, 24–48 h · https://github.com/smartago/plui-tv-launcher/issues |
+| Contact | Press: press@smartago.net · readers: support@smartago.net, a person, 24–48 h · https://github.com/smartago/plui-tv-launcher/issues |
 
 ## 6. What we can give you
 
