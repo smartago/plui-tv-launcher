@@ -79,6 +79,7 @@ screensaver.
 | | |
 |---|---|
 | Publisher | Smartago (smartago.net) — same Play account as Downloader TV, Button Mapper TV, TV Setup Suite |
+| Google Play | Listing: https://play.google.com/store/apps/details?id=com.premium.tv.launcher.ui · all our apps: https://play.google.com/store/apps/developer?id=Smartago |
 | Price | Free; Elite included at no cost. No ads, no account, no data sold |
 | Google Play | 4.5★, 1,032 ratings, 100K+ installs, updated 17 September 2026 (read the live numbers from the listing) |
 | Devices | Android TV 8+ and Google TV; Fire TV via sideload; Android projectors |
